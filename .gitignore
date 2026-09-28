@@ -1,0 +1,12 @@
+# Lokalna konfiguracja z hasłem WiFi — nigdy nie commitować
+firmware/config.py
+
+# Pliki slicera (zależne od drukarki)
+*.gcode
+
+# FreeCAD backup
+*.FCBak
+
+# Python
+__pycache__/
+*.pyc
